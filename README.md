@@ -11,6 +11,10 @@ Uses the follwing projects:
 * https://worldvectorlogo.com/logo/starfleet - for the Starfleet logo - Original design most likely owned by CBS - Edited with Inkscape into `star_fleet.svg`.
 * https://www.thingiverse.com/thing:49 - Coat Hook
 
+## Design
+
+The back of the hook is hollowed out to account for uneven walls or dowels wich are not completely flush. This requires supports, but as they are attached to an invisible part of the hook, they don't influence the final appearance at all.
+
 ## Colors
 
 As you can see, introducing a filament change at the right layer provides for a very nice visual effect.
