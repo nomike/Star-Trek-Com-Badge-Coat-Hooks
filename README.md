@@ -40,6 +40,8 @@ If you change the parameter `type` to `knob` you can print a knob instead of a h
 
 ## Thingiverse
 
+https://www.thingiverse.com/thing:6528411
 
 ## GitHub
 
+https://github.com/nomike/Star-Trek-Com-Badge-Coat-Hooks
