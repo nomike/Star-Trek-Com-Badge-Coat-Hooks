@@ -1,0 +1,25 @@
+{
+  "thing": {
+    "name": "Star Trek Com Badge Coat Hooks",
+    "category": "Household",
+    "tags": [
+      "Coathook",
+      "star Trek"
+    ],
+    "description": "# Star Trek Com Badge Coat Hooks\n\nCoat hooks featuring a Star Trek communicator badge. The hooks are designed to be mounted to a wall and are perfect for hanging coats, hats, or anything else you can think of.\n\n## Acknowledgements\n\nUses the follwing projects:\n\n* https://github.com/lar3ry/OpenSCAD---Move-STL-to-origin/tree/master - To move the imported STL to the origin.\n* https://www.thingiverse.com/thing:1731893 - An OpenSCAD library for creating screw holes\n* https://worldvectorlogo.com/logo/starfleet - for the Starfleet logo - Original design most likely owned by CBS - Edited with Inkscape into `star_fleet.svg`.\n* https://www.thingiverse.com/thing:49 - Coat Hook\n\n## Colors\n\nAs you can see, introducing a filament change at the right layer provides for a very nice visual effect.\n\n## Print instructions\n\nI printed the hooks with 50% cubic infill and used PLA as a material. One of the hooks gave in to the wait of two heavy jackets and a pair of quite heavy jeans. I then reprinted it with 90% cubic infill and cranked up the nozzle temperature to 240\u00b0C for the first and 230\u00b0C for subsequent layers. \n\nI also changed the cooling options in PrusaSlicer to improve layer adhesion:\n\nFan speed min: 50%\nEnable dynamic fan speeds: true\nspeed for 0% overlap (bridge): 50%\nspeed for 25% overlap: 70%\nspeed for 50% overlap: 80%\nspeed for 75% overlap: 100%\n\nAdding more perimters would have made the hook even more sturdy I think, but mine has held up for a few weeks now with no issues, so I had no reason to reprint it.\n\nAlso it was only one hook which failed so far, the others are fine, even with the lower infill and cooling settings.\n\nOrganic supports work great on this one.\n\n## Thingiverse\n\n\n## GitHub\n\n",
+    "instructions": "Print with 90% cubic infill and lower fan speeds for higher layer adhesion. Organic supports work great.",
+    "is_wip": false,
+    "license": "gpl3",
+    "id": 6528411
+  },
+  "files": [
+    "star-trek-coat-hook.scad",
+    "Coat-hook.stl",
+    "hook.stl",
+    "screw_holes.scad",
+    "star_fleet.svg",
+    "starfleet.svg",
+    "star-trek-coat-hook.scad"
+  ],
+  "images": []
+}
