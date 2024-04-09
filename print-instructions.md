@@ -1,4 +1,4 @@
-I printed the hooks with 50% cubic infill and used PLA as a material. One of the hooks gave in to the wait of two heavy jackets and a pair of quite heavy jeans. I then reprinted it with 90% cubic infill and cranked up the nozzle temperature to 240°C for the first and 230°C for subsequent layers. 
+I printed the hooks with 50% cubic infill and used PLA as a material. One of the hooks gave in to the wait of two heavy jackets and a pair of quite heavy jeans. I then reprinted it with 90% cubic infill and cranked up the nozzle temperature to 240°C for the first and 230°C for subsequent layers.
 
 I also changed the cooling options in PrusaSlicer to improve layer adhesion:
 

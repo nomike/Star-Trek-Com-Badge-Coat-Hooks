@@ -4,10 +4,10 @@ Coat hooks featuring a Star Trek communicator badge. The hooks are designed to b
 
 Uses the follwing projects:
 
-* https://github.com/lar3ry/OpenSCAD---Move-STL-to-origin/tree/master - To move the imported STL to the origin.
-* https://www.thingiverse.com/thing:1731893 - An OpenSCAD library for creating screw holes
-* https://worldvectorlogo.com/logo/starfleet - for the Starfleet logo - Original design most likely owned by CBS - Edited with Inkscape into `star_fleet.svg`.
-* https://www.thingiverse.com/thing:49 - Coat Hook
+* <https://github.com/lar3ry/OpenSCAD---Move-STL-to-origin/tree/master> - To move the imported STL to the origin.
+* <https://www.thingiverse.com/thing:1731893> - An OpenSCAD library for creating screw holes
+* <https://worldvectorlogo.com/logo/starfleet> - for the Starfleet logo - Original design most likely owned by CBS - Edited with Inkscape into `star_fleet.svg`.
+* <https://www.thingiverse.com/thing:49> - Coat Hook
 
 #### Design
 
