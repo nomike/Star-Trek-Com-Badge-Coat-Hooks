@@ -1,0 +1,11 @@
+{
+    "parameterSets": {
+        "hook": {
+            "type": "hook"
+        },
+        "knob": {
+            "type": "knob"
+        }
+    },
+    "fileFormatVersion": "1"
+}
