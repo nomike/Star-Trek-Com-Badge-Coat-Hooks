@@ -93,7 +93,7 @@ difference() {
 			translate([0, 0, oval_height]) color("purple") cylinder(h=oval_brim_height, r=oval_radius - oval_brim_width);
 		}
 		translate([starfleet_emblem_offset_x, starfleet_emblem_offset_y, 0]) scale([starfleet_emblem_scale, starfleet_emblem_scale, 1]) union() {
-			color("blue") linear_extrude(height=starfleet_emblem_height) offset(0.001) import("star_fleet.svg");
+			color("blue") linear_extrude(height=starfleet_emblem_height) import("star_fleet.svg");
 		}
 		if(type == "hook") {
 			translate([(oval_radius * oval_scale_x) - (hook_width / 2), hook_offset_y, 0]) hook(NE);
