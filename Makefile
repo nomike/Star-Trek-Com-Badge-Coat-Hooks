@@ -1,11 +1,15 @@
-.PHONY: clean output
+# Output directory for generated STL files
+OUTPUT_DIR = output
 
-output/star-trek-coat-hook.stl: output
-	openscad -o $@ star-trek-coat-hook.scad
+.PHONY: all generate_stls clean
 
-output:
-	mkdir -p output
+all: $(OUTPUT_DIR) generate_stls
 
-clean: 
-	rm -f output/star-trek-coat-hook.stl
-	
+$(OUTPUT_DIR):
+	mkdir -p $@
+
+generate_stls:
+	openscad_stl_file_generator/generate_stls --output-dir="$(OUTPUT_DIR)"
+
+clean:
+	rm -rf $(OUTPUT_DIR)
