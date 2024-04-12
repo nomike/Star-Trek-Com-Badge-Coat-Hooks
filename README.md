@@ -27,4 +27,4 @@ If you change the parameter `type` to `knob` you can print a knob instead of a h
 
 #### GitHub
 
-<https://github.com/nomike/Star-Trek-Com-Badge-Coat-Hooks>
+<https://github.com/nomike/star-trek-com-badge-coat-hook-and-door-knob>
